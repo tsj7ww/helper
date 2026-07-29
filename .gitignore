@@ -1,3 +1,10 @@
+*.csv
+*.parquet
+*.mp3
+*.wav
+*.gzip
+*/audio/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
